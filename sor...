@@ -1,0 +1,7 @@
+<div class="section">
+    <div class="article_card">
+        <div class="article_img"></div>
+        <div class="article_title">Title</div>
+        <div class="price"> 12.00 $</div>
+    </div>
+</div>
