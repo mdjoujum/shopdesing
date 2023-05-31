@@ -1,9 +1,11 @@
 @media screen and (max-width: 48rem) {
   .main{
     width: 100%;
+    padding: 0.1em;
   }
     .section {
       grid-template-columns: repeat(2, 1fr);
+      gap: .1em;
     }
   }
   
@@ -13,6 +15,7 @@
     }
     .section {
       grid-template-columns: repeat(2, 1fr);
+      gap: 2px;
     }
   }
   @media screen and (min-width: 780px) and (max-width: 1024px) {
